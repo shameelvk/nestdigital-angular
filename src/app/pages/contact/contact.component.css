@@ -1,0 +1,11 @@
+.contact-image{
+    background-image: url("https://nestdigital.com/wp-content/uploads/2023/07/Group-121.jpg");
+    background-repeat: no-repeat;
+    height:90vh;
+    color: white;
+    width: 100%;
+    background-size: cover;
+}
+.contact-rt{
+    height: 80vh !important;
+}
